@@ -1,0 +1,10 @@
+2020/12/22 15:20:02 open no-file.txt: no such file or directory
+2020/12/22 15:21:56 err happened open no-file.txt: no such file or directory
+2020/12/22 15:22:02 err happened open no-file.txt: no such file or directory
+2020/12/22 15:22:02 err happened open no-file.txt: no such file or directory
+2020/12/22 15:22:03 err happened open no-file.txt: no such file or directory
+2020/12/22 15:22:05 err happened open no-file.txt: no such file or directory
+2020/12/22 15:22:06 err happened open no-file.txt: no such file or directory
+2020/12/22 18:10:41 err happened open no-file.txt: no such file or directory
+2020/12/22 18:10:48 open no-file.txt: no such file or directory
+2020/12/22 18:10:53 open no-file.txt: no such file or directory
